@@ -4,7 +4,7 @@ Hi 👋 My name is Duong Dinh Xuan
 Devops and Backend Engineer
 
 * 🌍  I'm based in Ha Noi, Viet Nam
-* ✉️  You can contact me at [dinh.xuan.duong998@gmail.com](mailto:dinh.xuan.duong998@gmail.com)
+* ✉️  You can contact me at [dinh.xuan.duong998@gmail.com](mailto:duong.dinh.xuan998@gmail.com)
 * 🤝  I'm open to collaborating on Devops Job
 
 ### Badges
